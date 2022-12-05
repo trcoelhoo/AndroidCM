@@ -1,0 +1,3 @@
+C:\Users\TiagoC\Desktop\MEI\Cm\android-kotlin-fundamentals-starter-apps-master\DessertClicker-Starter\app\src\main\java\com\example\android\dessertclicker\ClickerApplication.kt
+C:\Users\TiagoC\Desktop\MEI\Cm\android-kotlin-fundamentals-starter-apps-master\DessertClicker-Starter\app\src\main\java\com\example\android\dessertclicker\DessertTimer.kt
+C:\Users\TiagoC\Desktop\MEI\Cm\android-kotlin-fundamentals-starter-apps-master\DessertClicker-Starter\app\src\main\java\com\example\android\dessertclicker\MainActivity.kt
